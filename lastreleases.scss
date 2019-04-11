@@ -1,0 +1,68 @@
+img[alt="logo"] {
+  width: 30px;
+  height: 30px;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+.charts {
+  text-align: center;
+}
+
+table {
+  a {
+    color: white;
+  }
+  
+  a:hover {
+    color:blanchedalmond;
+    text-decoration: none;
+  }
+}
+
+.td-left {
+  text-align: left;
+}
+
+li {
+  list-style-type: none;
+}
+
+footer {
+  background-color: #F1F1F1;
+  margin-top: 50px;
+  
+  a {
+    color: #212429;
+    cursor: pointer;
+  }
+}
+
+h2 {
+  margin: 20px;
+}
+
+.release {
+  margin-bottom: 30px;
+  text-align: left;
+  
+  img {
+    float: left;
+    cursor: pointer;
+    height: 70px;
+    width: 70px;
+    margin-right: 10px;
+    border-radius: 50%;
+  }
+  
+  p {
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    display: inline;
+    position: relative;
+    top: 20px;
+  }
+}
